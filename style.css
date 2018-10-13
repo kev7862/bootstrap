@@ -1,0 +1,32 @@
+.page-header{
+  text-align: center;
+}
+
+#kati{
+  text-align: center;
+}
+
+.jumbo{
+  padding-left: 250px;
+}
+.jam{
+  border: 1px solid black;
+  padding: 10px;
+  margin: 2px;
+}
+
+.kuku{
+  border: 1px solid green;
+  padding: 10px;
+  margin: 2px;
+}
+
+.toast{
+  border: 1px solid red;
+  padding: 10px;
+  margin: 2px;
+}
+
+.table{
+  text-decoration: none;
+}
